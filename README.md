@@ -1,4 +1,4 @@
-n this project, I utilized various techniques to exploit vulnerabilities and gain access to a target machine, eventually retrieving a flag. Here’s how the process unfolded:
+In this project, I utilized various techniques to exploit vulnerabilities and gain access to a target machine, eventually retrieving a flag. Here’s how the process unfolded:
 
 Setting up the Attacker Server: I configured my Kali Linux machine as the attacker server with the IP address 10.10.1.231. I began by executing commands in the terminal to carry out different tasks.
 
